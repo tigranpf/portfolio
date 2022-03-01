@@ -1,0 +1,182 @@
+@media screen and (max-width: 1025px) {
+    #skills, #me{
+        width: 85%;
+    }
+    #contact form {
+    width: 60%;
+    }
+}
+@media screen and (max-width: 769px) {
+    header #heading h1{
+        font-size: 60px;
+        
+    }
+    header #heading .line{
+        padding-top: 20px;
+      }
+
+      #projects .center-block .soon h2{
+          font-size: 35px;
+      }
+
+}
+@media screen and (max-width: 690px) {
+    #projects .center-block #gallery .block{
+        width: 300px;
+        height: 190px;
+    }
+}
+@media screen and (max-width: 570px) {
+    footer i {
+        font-size: 15px;
+    }
+
+    footer p{
+        font-size: 16px;
+    }
+
+    footer #social i {
+        margin-right: 11px;
+      }
+      
+      footer #links i {
+        margin-left: 11px;
+      }
+}
+@media screen and (max-width: 426px) {
+    header #heading h1{
+        padding-top: 50px;
+        font-size: 38px;
+        margin: 0px 3px;
+        line-height: 65px;
+    }
+    header #heading .line{
+        padding-top: 80px;
+        width: 50%;
+      }
+    header nav ul{
+    margin: 5px auto;
+    padding: 5px 10px;
+    font-size: 18px;
+    }
+    #about #me #mypic img {
+        width: 350px;
+        height: 350px;
+    }
+
+    #about #me p {
+        font-size: 19px;
+    }
+    #projects .center-block #gallery .block{
+        width: 280px;
+        height: 180px;
+    }
+
+    #projects .center-block .soon h2{
+        font-size: 30px;
+    }
+    #contact form {
+        width: 90%;
+        }
+    #contact p{
+        padding: 0 5px;
+    }
+    #projects .center-block .soon h2{
+        font-size: 30px;
+    }
+
+    footer i {
+        font-size: 14px;
+    }
+
+    footer p{
+        font-size: 13px;
+    }
+
+    footer #social i {
+        margin-right: 10px;
+      }
+      
+      footer #links i {
+        margin-left: 10px;
+      }
+        
+}
+@media screen and (max-width: 378px) {
+    header nav ul{
+        font-size: 16px;
+        }
+    header #heading h1{
+        font-size: 33px;
+    }
+
+    #about #me #mypic img {
+        width: 300px;
+        height: 300px;
+    }
+    #projects .center-block #gallery .block{
+        width: 260px;
+        height: 150px;
+    }
+    #contact h1{
+        font-size: 40px
+    }
+
+    #projects .center-block .soon h2{
+        font-size: 22px;
+    }
+    footer i {
+        font-size: 12px;
+    }
+
+    footer p{
+        font-size: 11px;
+    }
+
+    footer #social i {
+        margin-right: 8px;
+      }
+      
+      footer #links i {
+        margin-left: 8px;
+      }
+}
+@media screen and (max-width: 321px) {
+    header nav ul{
+        font-size: 14px;
+        }
+    header #heading h1{
+            font-size: 27px;
+        }
+    #about #me #mypic img {
+            width: 250px;
+            height: 250px;
+        }
+    #about #me p {
+            font-size: 18px;
+        }
+        #projects .center-block #gallery .block{
+            width: 200px;
+            height: 100px;
+        }
+    
+        #projects .center-block .soon h2{
+            font-size: 18px;
+        }
+        footer i {
+            font-size: 11px;
+        }
+    
+        footer p{
+            font-size: 10px;
+        }
+    
+        footer #social i {
+            margin-right: 6px;
+          }
+          
+          footer #links i {
+            margin-left: 6px;
+          }
+            
+}
